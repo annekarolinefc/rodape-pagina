@@ -1,5 +1,6 @@
-# Título do Projeto
+# Rodapé de uma página Web
 
+Protótipo disponibilizado:
 
 ![Capa do Projeto](./imagens/day_1521.png)
 
@@ -11,7 +12,7 @@ A interface feita nesse projeto foi o **rodapé de uma página**. A ideia é que
 
 O protótipo está disponível [nesse link](https://uidesigndaily.com/posts/figma-footer-dark-mode-day-1521).
 
-Caso deseja ver a versão final do **rodapé de uma página**, basta acessar [esse link]()
+Caso deseja ver a versão final do **rodapé de uma página**, basta acessar [esse link](https://rodape-pagina.vercel.app/)
 
 # Índice/Sumário
 
@@ -50,7 +51,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
     <tr>
     <td align="center">
 	  	<a href="https://github.com/annekarolinefc">
-			<img src="ft_Anne.jpg" width="100px;" alt="Anne Karoline"/>
+			<img src="imagens/ft_Anne.jpg" width="100px;" alt="Anne Karoline"/>
 			<br />
 			<sub><b>Anne K. F. Carmo</b></sub>
 		</a>

@@ -12,7 +12,7 @@ A interface feita nesse projeto foi o **rodapé de uma página**. A ideia é que
 
 O protótipo está disponível [nesse link](https://uidesigndaily.com/posts/figma-footer-dark-mode-day-1521).
 
-Caso deseja ver a versão final do **rodapé de uma página**, basta acessar [esse link](https://rodape-pagina.vercel.app/)
+Caso deseja ver a versão final do **rodapé de uma página**, basta acessar [esse link](https://rodape-pagina.vercel.app/).
 
 # Índice/Sumário
 

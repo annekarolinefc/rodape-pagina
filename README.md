@@ -9,9 +9,9 @@ O projeto é referente a matéria de Usabilidade, desenvolvimento web, mobile e 
 
 A interface feita nesse projeto foi o **rodapé de uma página**. A ideia é que a implementação da tela seja o mais fiel possível ao protótipo de tela fornecido pelo professor.
 
-O protótipo está disponível [nesse link]().
+O protótipo está disponível [nesse link](https://uidesigndaily.com/posts/figma-footer-dark-mode-day-1521).
 
-Caso deseja ver a versão final da implementação da tela de configuração de conta, basta acessar [esse link]()
+Caso deseja ver a versão final do **rodapé de uma página**, basta acessar [esse link]()
 
 # Índice/Sumário
 
